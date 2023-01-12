@@ -2,6 +2,7 @@ go 1.18
 
 use (
 	./go_worker_pool
+	./mutex_example
 	./waitgroup
 	./waitgroup_realworld_example
 )
