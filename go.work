@@ -3,6 +3,8 @@ go 1.18
 use (
 	./go_worker_pool
 	./mutex_example
+	./random_examples
+	./random_examples_runner
 	./waitgroup
 	./waitgroup_realworld_example
 )
