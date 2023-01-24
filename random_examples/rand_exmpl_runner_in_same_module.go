@@ -9,7 +9,5 @@ import (
 */
 
 func main() {
-	exmpl.SayHello()
-	exmpl.ReadingFromChannelAfterBeingClosed()
-	exmpl.SayBye()
+	exmpl.TryReceiveExample()
 }
