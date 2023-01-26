@@ -29,3 +29,10 @@ $ go build -tags "enterprise"
 => you will get the free, pro and enterprise features
 
 */
+
+/*
+add below field in the settings.json of your vscode
+	"gopls": {
+        "buildFlags":["-tags=pro,enterprise"]
+    }
+*/
